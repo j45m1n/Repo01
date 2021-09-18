@@ -1,4 +1,4 @@
-Shoppinglist:
+Shopping list:
 - Apples;
 - Oranges;
 - Bananas;
